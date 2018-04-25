@@ -16,15 +16,17 @@ class Portfolio extends React.Component{
                     brief:'Question/answer game written in Javascript.'
                 },
                 {
-                    description:'description of your project 2',
-                    url:'link to live demo 2',
+                    description:'Search article on NewYork Times',
+                    url:'https://newyorktimes-search.herokuapp.com/',
+                    github:'https://github.com/dotrong/nyt-search',
                     image:'images/tech2.jpg',
                     title:'NYT-Search',
                     brief:'WebUI NYT search articles'
                 },
                 {
                     description:'This application uses ReactJS for GUI components, React Routing for front-end Routing',
-                    url:'link to live demo 3',
+                    url:'https://tronghieudo.com',
+                    github:'https://github.com/dotrong/Portfolio-React',
                     image:'images/tech3.jpg',
                     title: 'Porfolio',
                     brief:'Personal Portfolio'
@@ -32,6 +34,7 @@ class Portfolio extends React.Component{
                 {
                     description:'This application uses Sequelize library as ORM to query MySQL DB, Handlebars for template. NodeJS and Express as backend.',
                     url:'https://fierce-chamber-75903.herokuapp.com',
+                    github:'https://github.com/dotrong/sequelizedBurger',
                     image:'images/tech4.jpg',
                     title: 'Sequelized Burger',
                     brief:'Simple demo of Sequelize and MySQL db'
