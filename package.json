@@ -7,7 +7,7 @@
       "test": "jest",
       "build": "webpack -w"
     },
-    "author": "Ahmed Haque",
+    "author": "Trong H Do",
     "license": "ISC",
     "dependencies": {
       "babel-jest": "^22.4.3",
