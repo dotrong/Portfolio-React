@@ -16,7 +16,7 @@ class Portfolio extends React.Component{
                     brief:'Question/answer game written in Javascript.'
                 },
                 {
-                    description:'Search article on NewYork Times',
+                    description:'Search article on NewYork Times, using NYT public RestAPI. Frontend written in ReactJS and Bootstrap, backend is NodeJS and MongoDB',
                     url:'https://newyorktimes-search.herokuapp.com/',
                     github:'https://github.com/dotrong/nyt-search',
                     image:'images/tech2.jpg',

@@ -15,9 +15,12 @@ class About extends React.Component {
                     </div>
 
                     <div className="col-md-9">
-                        <p>Hi! My name is Trong Hieu Do, i'm from Rancho Cucamonga.</p>
-                        <p>Thank you for visiting my homepage. If you need help to build a personal 
-                        or business website, please send me a message in contact page. Thanks!</p>
+                        <p>Hi there, my name is Trong Hieu Do, i'm from Rancho Cucamonga, California.</p>
+                        <p>While working at Verizon as Tool Engineer, i had been developing interest in coding,
+                             writting couple web application for NetOps and management dashboard. To solidify my knowledge, i participated coding bootcamp at UCI Continuing Education.
+                             Now i'm looking for opportunity to work as full-time web developer.    </p>
+                             <p>Web Technologies i can work with (but not limited to ;-) : HTML/CSS Bootstrap, ReactJS, JQuery, Javascript, NodeJS, PHP</p>
+                             <p>Databases: MySQL, MongoDB</p>
                     </div>
 
                 </div>  
