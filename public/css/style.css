@@ -1,0 +1,31 @@
+
+.small-box {
+
+    width: 120px;
+    height: 120px;
+}
+
+.small-box img {
+    height: 100%;
+    width: 100%;
+}
+
+.side-bar {
+    /* border-color: red;
+    border-style: solid; */
+    height: 300px;
+}
+
+.spacing-row {
+    margin-top: 20px;
+}
+.display-block {
+    display: block
+}
+
+.icon {
+	width: 80px;
+	height: 80px;
+	
+	margin: 0 auto 0 auto;
+}
