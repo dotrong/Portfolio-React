@@ -28,7 +28,7 @@ class Portfolio extends React.Component{
                     url:'https://tronghieudo.com',
                     github:'https://github.com/dotrong/Portfolio-React',
                     image:'images/tech3.jpg',
-                    title: 'Porfolio',
+                    title: 'Portfolio',
                     brief:'Personal Portfolio'
                 },
                 {
