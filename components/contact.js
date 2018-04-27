@@ -10,13 +10,9 @@ class Contact extends React.Component {
 
                 <div className="row">
 
-                    <div className="col-md-3">
-                        <img src="https://instantcard.net/wp-content/uploads/2014/11/150x150-testimonial-placeholder.jpg"/>
-                    </div>
+                    <div className="col-md-12">
 
-                    <div className="col-md-9">
-
-                        <p>Please reach to me at dohieu@gmail.com</p>
+                        <p>Please drop me an email at dohieu@gmail.com</p>
 
                     </div>
 
